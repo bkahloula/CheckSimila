@@ -12,7 +12,7 @@ Windows desktop application for **plagiarism detection** and
 ## Installation
 
 Download `CheckSimila-2.1.13-setup.exe` from the 
-[Releases](../../releases) section and run it. Java is not required (included).
+[Releases](../../releases) section and run it. 
 
 ## Author
 
